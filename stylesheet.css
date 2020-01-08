@@ -119,6 +119,7 @@ header{
 }  
 .lesson-icon{
   position:relative;
+  text-align:center;
 }
 .lesson-icon img{
   font-size:50px;
