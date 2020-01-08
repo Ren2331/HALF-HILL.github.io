@@ -122,8 +122,7 @@ header{
 }
 .lesson-icon img{
   font-size:50px;
-  width:100%;
-  height:auto;
+  margin-rop:20px;
 }    
 .lesson-icon p{
   position:absolute;
