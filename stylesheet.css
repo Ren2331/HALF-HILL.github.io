@@ -1,3 +1,4 @@
+/* CSSのリセット（消さないでください） */
 html, body,
 ul, ol, li,
 h1, h2, h3, h4, h5, h6, p, div {
@@ -51,7 +52,7 @@ header{
 }
 .top-wrapper{
   padding:180px 0 100px 0;
-  background-image:url("https://www.pakutaso.com/20170607170post-12088.jpg");
+  background-image:url(XEN7615015_TP_V.jpg);
   background-size:cover;
   color:white;
   text-align:center;
@@ -153,4 +154,3 @@ header{
   top:7px;
   box-shadow:none;
 }
-
