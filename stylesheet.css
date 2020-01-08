@@ -119,11 +119,11 @@ header{
 }  
 .lesson-icon{
   position:relative;
-  width:100%;
-  height:auto;
 }
 .lesson-icon img{
   font-size:50px;
+  width:100%;
+  height:auto;
 }    
 .lesson-icon p{
   position:absolute;
