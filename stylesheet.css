@@ -120,10 +120,6 @@ header{
 .lesson-icon{
   position:relative;
 }
-.lesson-icon img{
-  width:100px;
-  height:auto;
-}  
 .lesson-icon p{
   position:absolute;
   top:44%;
